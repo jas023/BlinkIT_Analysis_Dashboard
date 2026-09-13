@@ -58,20 +58,6 @@ A detailed matrix provides a comparison of outlet types using metrics such as:
 
 ---
 
-## 🎛️ Interactive Features
-
-The dashboard includes interactive filters/slicers that allow users to explore the data dynamically.
-
-Users can filter the analysis by:
-
-* **Outlet Location Type**
-* **Item Type**
-* **Outlet Size**
-
-A metric-selection parameter is also incorporated to allow different measures to be analyzed interactively.
-
----
-
 ## 🛠️ Tools & Technologies
 
 | Tool              | Purpose                               |
@@ -122,31 +108,6 @@ The dashboard can be used to identify:
 
 ---
 
-## 🚀 How to Use
 
-1. Download or clone this repository.
-2. Open `Blinkit_Dashboard.pbix` using **Microsoft Power BI Desktop**.
-3. If required, update the dataset/file path.
-4. Refresh the data.
-5. Use the available slicers and interactive visuals to explore the dashboard.
-
----
-
-## 📂 Project Files
-
-```text
-├── Blinkit_Dashboard.pbix
-├── Excel_Dataset file/
-├── Dasboard_image/
-└── README.md
-```
-
----
-
-## 👩‍💻 Author
-
-**Jasleen Kaur**
-
-Aspiring **Data Analyst** with a background in Computer Applications and a focus on data visualization, business intelligence, and analytical problem-solving.
 
 
